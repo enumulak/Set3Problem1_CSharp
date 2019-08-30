@@ -1,0 +1,7 @@
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\Set3Problem1_CSharp\bin\Debug\Set3Problem1_CSharp.exe.config
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\Set3Problem1_CSharp\bin\Debug\Set3Problem1_CSharp.exe
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\Set3Problem1_CSharp\bin\Debug\Set3Problem1_CSharp.pdb
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\Set3Problem1_CSharp\obj\Debug\Set3Problem1_CSharp.csprojAssemblyReference.cache
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\Set3Problem1_CSharp\obj\Debug\Set3Problem1_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\Set3Problem1_CSharp\obj\Debug\Set3Problem1_CSharp.exe
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\Set3Problem1_CSharp\obj\Debug\Set3Problem1_CSharp.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set3Problem1_CSharp", "Set3Problem1_CSharp\Set3Problem1_CSharp.csproj", "{A54F37D8-6EA2-4985-AC71-10A8A06B25F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengaburuTrafficTest", "LengaburuTrafficTest\LengaburuTrafficTest.csproj", "{BC398A8E-A706-46A7-B5AC-91E2BED4C37E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A54F37D8-6EA2-4985-AC71-10A8A06B25F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54F37D8-6EA2-4985-AC71-10A8A06B25F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54F37D8-6EA2-4985-AC71-10A8A06B25F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54F37D8-6EA2-4985-AC71-10A8A06B25F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC398A8E-A706-46A7-B5AC-91E2BED4C37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC398A8E-A706-46A7-B5AC-91E2BED4C37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC398A8E-A706-46A7-B5AC-91E2BED4C37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC398A8E-A706-46A7-B5AC-91E2BED4C37E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6A375A3-33B5-40CD-B5A0-A391F94A417E}
+	EndGlobalSection
+EndGlobal

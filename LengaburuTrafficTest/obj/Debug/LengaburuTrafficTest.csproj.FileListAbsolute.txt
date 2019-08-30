@@ -1,0 +1,17 @@
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\bin\Debug\LengaburuTrafficTest.dll
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\bin\Debug\LengaburuTrafficTest.pdb
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\bin\Debug\Set3Problem1_CSharp.exe
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\bin\Debug\Set3Problem1_CSharp.pdb
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\bin\Debug\Set3Problem1_CSharp.exe.config
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\obj\Debug\LengaburuTrafficTest.csprojAssemblyReference.cache
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\obj\Debug\LengaburuTrafficTest.csproj.CoreCompileInputs.cache
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\obj\Debug\LengaburuTrafficTest.csproj.CopyComplete
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\obj\Debug\LengaburuTrafficTest.dll
+C:\Users\enumu\source\repos\Set3Problem1_CSharp\LengaburuTrafficTest\obj\Debug\LengaburuTrafficTest.pdb
